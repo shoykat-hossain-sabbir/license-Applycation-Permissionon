@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+label {
+    display: block !important;
+    font-size: .95rem;
+}
+sup {
+    font-size: 16px !important;
+    color: red;
+    top: -.0em !important;
+}
+.pt-2 {
+    padding-top: 2.5rem !important;
+}
+.scrollable-column {
+    max-height: 300px;
+    overflow-y: auto;
+}
+.scrollable-row {
+    max-height: 370px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.btton .btn{
+    font-size: 22px;
+    padding: 8px 12px
+}
+.bttn {
+    text-align: right;
+}
+.bttn .btn {
+    font-size: 20px;
+    padding: 8px 26px;
+}
+.s_status {
+    padding-top: 5px;
+}
+.r_redio {
+    padding-top: 5px;
+}
+.right_border {
+    border-right: 1px solid black;
+}

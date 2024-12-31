@@ -1,0 +1,118 @@
+
+@media (max-width :575px) {
+    label {
+        font-size: .65rem;
+    }
+    .form-control {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    .form-select {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    .form-check-input {
+        padding: -0.625rem .75rem;
+        font-size: .5rem;
+    }
+    sup {
+        font-size: 10px !important;
+    }
+    .btton .btn{
+        font-size: 14px;
+        padding: 6px 10px
+    }
+    .bttn .btn {
+        padding: 8px 14px;
+        font-size: 10px;
+    }
+    .bttn {
+        text-align: center;
+    }
+    .s_status {
+        padding-top: .55rem!important;
+    }
+    .right_border {
+        border-right: none;
+    }
+}
+@media (min-width :576px) and (max-width :767px) {
+    label {
+        font-size: .70rem;
+    }
+    .form-control {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    .form-select {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    .form-check-input {
+        padding: -0.650rem .85rem;
+        font-size: .6rem;
+    }
+    sup {
+        font-size: 12px !important;
+    }
+    .btton .btn{
+        font-size: 16px;
+        padding: 6px 10px
+    }
+    .bttn {
+        text-align: center;
+    }
+    .bttn .btn {
+        padding: 8px 20px;
+        font-size: 12px;
+    }
+    .s_status {
+        padding-top: .5rem!important;
+    }
+    .right_border {
+        border-right: none;
+    }
+}
+@media (min-width :768px) and (max-width :991px) {
+    label {
+        font-size: .8rem;
+    }
+    sup {
+        font-size: 14px !important;
+    }
+    .btton .btn{
+        font-size: 18px;
+        padding: 6px 10px
+    }
+    .bttn .btn {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+}
+@media (min-width :992px) and (max-width :1199px) {
+    label {
+        font-size: .9rem;
+    }
+    sup {
+        font-size: 16px !important;
+    }
+    .btton .btn{
+        font-size: 20px;
+        padding: 6px 10px
+    }
+    .bttn .btn {
+        padding: 10px 22px;
+        font-size: 18px;
+    }
+}
+@media (min-width :1200px) and (max-width :1399px) {
+    label {
+        font-size: .95rem;
+    }
+    sup {
+        font-size: 1px !important;
+    }
+}
+/* @media (min-width :1400px) {
+
+} */
